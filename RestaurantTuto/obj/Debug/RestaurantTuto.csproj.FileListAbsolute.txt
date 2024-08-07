@@ -1,0 +1,16 @@
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\bin\Debug\RestaurantTuto.exe.config
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\bin\Debug\RestaurantTuto.exe
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\bin\Debug\RestaurantTuto.pdb
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\bin\Debug\Guna.UI2.dll
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.csproj.AssemblyReference.cache
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.Properties.Resources.resources
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.csproj.GenerateResource.cache
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.csproj.CoreCompileInputs.cache
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.csproj.CopyComplete
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.exe
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.pdb
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.items.resources
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.Users.resources
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.Category.resources
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.Billing.resources
+E:\MyProjects\BackendDevelopment\crud\Restaurant\RestaurantTuto\RestaurantTuto\obj\Debug\RestaurantTuto.Login.resources
